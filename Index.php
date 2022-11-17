@@ -1,1 +1,2 @@
-
+<?php
+// slience is golden
